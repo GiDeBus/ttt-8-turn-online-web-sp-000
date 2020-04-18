@@ -10,8 +10,7 @@ end
 
 #input_to_index 
 
-def
-input_to_index(user_input)
+def input_to_index(user_input)
   return user_input.to_i - 1
 end
 
